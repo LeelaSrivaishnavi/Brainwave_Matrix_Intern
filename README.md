@@ -31,10 +31,10 @@ Python
 
 **Dependencies**
 Before running the code, make sure you have the following libraries and packages installed:
-# Python 3
-# Scikit-learn
-# Pandas
-# Numpy
-# Seaborn
-# Matplotlib
-# Regular Expression
+* Python 3
+* Scikit-learn
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Regular Expression
