@@ -22,12 +22,12 @@ The dataset is divided into two classes:
 **System Requirements**
 
 Hardware :
-4GB RAM
-i3 Processor
-500MB free space
+* 4GB RAM
+* i3 Processor
+* 500MB free space
 
 Software :
-Python
+* Python
 
 **Dependencies**
 Before running the code, make sure you have the following libraries and packages installed:
